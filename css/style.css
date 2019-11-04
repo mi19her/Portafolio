@@ -8836,8 +8836,8 @@ h1, h2, h3, h4, h5,
   margin-bottom: 30px;
   position: relative;
   z-index: 0; }
-  .project.img-2 {
-    height: 600px; }
+  /* .project.img-2 {
+    height: 600px; } */
     @media (max-width: 767.98px) {
       .project.img-2 {
         height: 285px; } }
@@ -8970,8 +8970,8 @@ textarea.form-control {
 
 .ftco-footer {
   font-size: 16px;
-  background: #0075f6;
-  padding: 7em 0;
+  background: #222222;
+  padding: 2em 0;
   z-index: 0; }
   .ftco-footer .ftco-footer-logo {
     text-transform: uppercase;
